@@ -22,6 +22,6 @@
 - Forecasted actionable intelligence to determine growth opportunities along with market insights and business analysis requirements, such as market segmentation, competitor intelligence
 - Interpreted areas to prioritize offerings, determine threats, benchmark competitor marketing and development activities, etc. 
 
-#[Projects](https://www.mdpi.com/1424-8220/22/8/3048)
+#[Projects](https://www.mdpi.com/1424-8220/22/8/3048)#
 
-#![Bike Study](/assets/img/bike_study.jpeg)
+#![Bike Study](/assets/img/bike_study.jpeg)#
